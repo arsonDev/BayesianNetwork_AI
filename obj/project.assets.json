@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "encog-dotnet-core/3.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/encog-core-cs.dll": {}
+        },
+        "runtime": {
+          "lib/encog-core-cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "encog-dotnet-core/3.4.0": {
+      "sha512": "WUacWTVw9zGQlmYVAKdULn5pAG2XcnfhVaYNURLNBZtsRgoXRmXORH0HJigaXaT+x61cp/6XoOcajd5X++wLtg==",
+      "type": "package",
+      "path": "encog-dotnet-core/3.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "encog-dotnet-core.3.4.0.nupkg.sha512",
+        "encog-dotnet-core.nuspec",
+        "lib/encog-core-cs.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "encog-dotnet-core >= 3.4.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kowalczyka\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kowalczyka\\Devs_School\\AI-BayesianNetwork\\AI-BayesianNetwork\\AI-BayesianNetwork.csproj",
+      "projectName": "AI-BayesianNetwork",
+      "projectPath": "C:\\Users\\kowalczyka\\Devs_School\\AI-BayesianNetwork\\AI-BayesianNetwork\\AI-BayesianNetwork.csproj",
+      "packagesPath": "C:\\Users\\kowalczyka\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kowalczyka\\Devs_School\\AI-BayesianNetwork\\AI-BayesianNetwork\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\kowalczyka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://192.168.242.113:4570/nuget": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dotnet.myget.org/F/open-xml-sdk/api/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "encog-dotnet-core": {
+            "target": "Package",
+            "version": "[3.4.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'encog-dotnet-core 3.4.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "encog-dotnet-core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

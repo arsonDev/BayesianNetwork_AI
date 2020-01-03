@@ -1,0 +1,13 @@
+C:\Users\kowalczyka\Devs_School\AI-BayesianNetwork\AI-BayesianNetwork\bin\Debug\netcoreapp3.1\AI-BayesianNetwork.exe
+C:\Users\kowalczyka\Devs_School\AI-BayesianNetwork\AI-BayesianNetwork\obj\Debug\netcoreapp3.1\AI-BayesianNetwork.csprojAssemblyReference.cache
+C:\Users\kowalczyka\Devs_School\AI-BayesianNetwork\AI-BayesianNetwork\obj\Debug\netcoreapp3.1\AI-BayesianNetwork.AssemblyInfoInputs.cache
+C:\Users\kowalczyka\Devs_School\AI-BayesianNetwork\AI-BayesianNetwork\obj\Debug\netcoreapp3.1\AI-BayesianNetwork.AssemblyInfo.cs
+C:\Users\kowalczyka\Devs_School\AI-BayesianNetwork\AI-BayesianNetwork\bin\Debug\netcoreapp3.1\AI-BayesianNetwork.deps.json
+C:\Users\kowalczyka\Devs_School\AI-BayesianNetwork\AI-BayesianNetwork\bin\Debug\netcoreapp3.1\AI-BayesianNetwork.runtimeconfig.json
+C:\Users\kowalczyka\Devs_School\AI-BayesianNetwork\AI-BayesianNetwork\bin\Debug\netcoreapp3.1\AI-BayesianNetwork.runtimeconfig.dev.json
+C:\Users\kowalczyka\Devs_School\AI-BayesianNetwork\AI-BayesianNetwork\bin\Debug\netcoreapp3.1\AI-BayesianNetwork.dll
+C:\Users\kowalczyka\Devs_School\AI-BayesianNetwork\AI-BayesianNetwork\bin\Debug\netcoreapp3.1\AI-BayesianNetwork.pdb
+C:\Users\kowalczyka\Devs_School\AI-BayesianNetwork\AI-BayesianNetwork\bin\Debug\netcoreapp3.1\encog-core-cs.dll
+C:\Users\kowalczyka\Devs_School\AI-BayesianNetwork\AI-BayesianNetwork\obj\Debug\netcoreapp3.1\AI-BayesianNetwork.csproj.CopyComplete
+C:\Users\kowalczyka\Devs_School\AI-BayesianNetwork\AI-BayesianNetwork\obj\Debug\netcoreapp3.1\AI-BayesianNetwork.dll
+C:\Users\kowalczyka\Devs_School\AI-BayesianNetwork\AI-BayesianNetwork\obj\Debug\netcoreapp3.1\AI-BayesianNetwork.pdb

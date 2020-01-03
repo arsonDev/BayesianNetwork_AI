@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AI-BayesianNetwork/1.0.0": {
+        "dependencies": {
+          "encog-dotnet-core": "3.4.0"
+        },
+        "runtime": {
+          "AI-BayesianNetwork.dll": {}
+        }
+      },
+      "encog-dotnet-core/3.4.0": {
+        "runtime": {
+          "lib/encog-core-cs.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AI-BayesianNetwork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "encog-dotnet-core/3.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WUacWTVw9zGQlmYVAKdULn5pAG2XcnfhVaYNURLNBZtsRgoXRmXORH0HJigaXaT+x61cp/6XoOcajd5X++wLtg==",
+      "path": "encog-dotnet-core/3.4.0",
+      "hashPath": "encog-dotnet-core.3.4.0.nupkg.sha512"
+    }
+  }
+}
